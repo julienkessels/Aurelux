@@ -1,0 +1,4 @@
+#Mon Jun 19 19:55:12 CEST 2017
+base.0=/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
