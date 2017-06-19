@@ -23,7 +23,6 @@ export default class Home extends Component {
 
     return (
       <Container>
-        <Content >
           <Grid>
             <Col style={{ height: ScreenHeight}}>
               <LinearGradient colors={['#321EF6', '#4068FF']} style={{ height: ScreenHeight}}>
@@ -48,7 +47,6 @@ export default class Home extends Component {
               </LinearGradient>
             </Col>
           </Grid>
-        </Content>
       </Container>
     );
   }
