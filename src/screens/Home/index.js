@@ -34,7 +34,7 @@ export default class Home extends Component {
           <Grid>
             <Col style={{ height: ScreenHeight}}>
               <Image source={require('./background.png')} style={{ height: ScreenHeight, width:ScreenWidth}}>
-                <Row size={5}>              
+                <Row size={5}>
                 </Row>
                 <Row size={10} style={{alignSelf: 'center',justifyContent: 'center',width:ScreenWidth}}>
                   <Col style={{alignSelf: 'center', justifyContent: 'center',width:ScreenWidth}}>
@@ -54,6 +54,14 @@ export default class Home extends Component {
                   <Col>
                     <Button outline light bordered onPress={Actions.Rows} style={{alignSelf: 'center',width:300, justifyContent: 'center'}}>
                       <Text style={{color:"#fff",fontSize:20}}>Vocabel Test</Text>
+                    </Button>
+                  </Col>
+                </Row>
+
+                <Row size={2}>
+                  <Col>
+                    <Button outline light bordered onPress={Actions.Drag} style={{alignSelf: 'center',width:300, justifyContent: 'center'}}>
+                      <Text style={{color:"#fff",fontSize:20}}>Drag</Text>
                     </Button>
                   </Col>
                 </Row>
