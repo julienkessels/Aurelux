@@ -4,9 +4,45 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon20x20@2x.png</key>
+		<data>
+		/3BPD1ahQ0m4nufHa28LE/obwFk=
+		</data>
+		<key>AppIcon20x20@3x.png</key>
+		<data>
+		VlVZL1ajQGNufTaDritTygczrco=
+		</data>
+		<key>AppIcon29x29@2x.png</key>
+		<data>
+		UwGVWSljYlAj4JVt3Jfc/wsGtSg=
+		</data>
+		<key>AppIcon29x29@3x.png</key>
+		<data>
+		15LN58WXtBP0lYP1YyP0f/dGfrI=
+		</data>
+		<key>AppIcon40x40@2x.png</key>
+		<data>
+		gThexK25PDwGBQdy+4o9AWcNQJY=
+		</data>
+		<key>AppIcon40x40@3x.png</key>
+		<data>
+		kciWhb9gKlnVAMoeViJl+f5TYtU=
+		</data>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		kciWhb9gKlnVAMoeViJl+f5TYtU=
+		</data>
+		<key>AppIcon60x60@3x.png</key>
+		<data>
+		qQjasrKLZkGpr1WZQBOa7yrZXn0=
+		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		H9eNYBJyL19BeLYm6pkWQn32VPc=
+		m1qE8394DDcEaratcomS6VY6ato=
+		</data>
+		<key>Choplin-ExtraLight.otf</key>
+		<data>
+		8DzjdEpd8wAM/pR/IQ3EYIeLhNI=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -237,9 +273,13 @@
 		<data>
 		0frVurGOX6522Iba8IdTedJkiYo=
 		</data>
+		<key>Futura PT W01 Medium.otf</key>
+		<data>
+		QXpScSVwgyU9LK21GupiP+bkJzg=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		3N44W2XdkK9P/+Npg2D7etR2K+k=
+		2YBsUnRbOJWeTKMFLxYa3XsIzx8=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -267,19 +307,19 @@
 		</data>
 		<key>PlugIns/AureluxTests.xctest.dSYM/Contents/Resources/DWARF/AureluxTests</key>
 		<data>
-		2F1wJMoWjjIfMy9ZiCJGy7uCe2Y=
+		ORmwyokVTQPtTFb82IttvU7a8p8=
 		</data>
 		<key>PlugIns/AureluxTests.xctest/AureluxTests</key>
 		<data>
-		55jbc3xYf+W7Yrqujk2W/Eo65bw=
+		Nqg/+S4Oe8baDtKIhXyfsCT0hbw=
 		</data>
 		<key>PlugIns/AureluxTests.xctest/Info.plist</key>
 		<data>
-		XlHcD0Mblm9s5ArfbwQaTTP/Wpk=
+		bxBIkTDKH5C0dZd0p73lMV0IbP4=
 		</data>
 		<key>PlugIns/AureluxTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		Len9KnGPBxye3uvJoLv6jtPQCTQ=
+		IgIWMuKmIzHBn4YDrywpcvu7tbk=
 		</data>
 		<key>Roboto.ttf</key>
 		<data>
@@ -304,15 +344,114 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon20x20@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/3BPD1ahQ0m4nufHa28LE/obwFk=
+			</data>
+			<key>hash2</key>
+			<data>
+			s0vlyk/T1ZoyA7fFz57KYJB3bF6zVBopAAS/3+OXwu8=
+			</data>
+		</dict>
+		<key>AppIcon20x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VlVZL1ajQGNufTaDritTygczrco=
+			</data>
+			<key>hash2</key>
+			<data>
+			A7tdiqFvuPcawHrv4NiO5eGEelzjFxvkiBM3nILHhSE=
+			</data>
+		</dict>
+		<key>AppIcon29x29@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UwGVWSljYlAj4JVt3Jfc/wsGtSg=
+			</data>
+			<key>hash2</key>
+			<data>
+			WhDLj7mgm5X67Y8DZ695TcXRbotwrtIJcZa9lQysE7Q=
+			</data>
+		</dict>
+		<key>AppIcon29x29@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			15LN58WXtBP0lYP1YyP0f/dGfrI=
+			</data>
+			<key>hash2</key>
+			<data>
+			fE6lDwFteC4WMml//z/Ui8yFL8kZx6hu7wWc2yFhM84=
+			</data>
+		</dict>
+		<key>AppIcon40x40@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gThexK25PDwGBQdy+4o9AWcNQJY=
+			</data>
+			<key>hash2</key>
+			<data>
+			i65fPRmDYsfPZT9ZddgiVyILOx9jrI7wxFxpQk9QHvo=
+			</data>
+		</dict>
+		<key>AppIcon40x40@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kciWhb9gKlnVAMoeViJl+f5TYtU=
+			</data>
+			<key>hash2</key>
+			<data>
+			+F1I0HKSe0rzfVmL9Sn83D9Xd6KY49QQl5Kg9Cjztkw=
+			</data>
+		</dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kciWhb9gKlnVAMoeViJl+f5TYtU=
+			</data>
+			<key>hash2</key>
+			<data>
+			+F1I0HKSe0rzfVmL9Sn83D9Xd6KY49QQl5Kg9Cjztkw=
+			</data>
+		</dict>
+		<key>AppIcon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qQjasrKLZkGpr1WZQBOa7yrZXn0=
+			</data>
+			<key>hash2</key>
+			<data>
+			DICF0cfKkMAaavFVMe/Gp9x69nrXqfu+sOhlJFJMick=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			H9eNYBJyL19BeLYm6pkWQn32VPc=
+			m1qE8394DDcEaratcomS6VY6ato=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hy2TCazqKpkE+3G1+yxgE9NG5hVN7FXB4p6j3gvH8/Y=
+			fGqhS+adBq1tnJV6ElCltVXQlkJ3U7YVuBbxO3+4BjA=
+			</data>
+		</dict>
+		<key>Choplin-ExtraLight.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8DzjdEpd8wAM/pR/IQ3EYIeLhNI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Owuj6D/5/rk2Vqy/lPVWm6ilHxyNb/Jx+qYLiCBdlsM=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -933,6 +1072,17 @@
 			QFa4oVkeCq7DUecWrEpwl9K3/xP42pymdP4ohq/DBZQ=
 			</data>
 		</dict>
+		<key>Futura PT W01 Medium.otf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QXpScSVwgyU9LK21GupiP+bkJzg=
+			</data>
+			<key>hash2</key>
+			<data>
+			53iOuR/Gn3Bjn2XrMLju2mt2u5pwYOCp5MM4zncP1IY=
+			</data>
+		</dict>
 		<key>Ionicons.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -992,44 +1142,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2F1wJMoWjjIfMy9ZiCJGy7uCe2Y=
+			ORmwyokVTQPtTFb82IttvU7a8p8=
 			</data>
 			<key>hash2</key>
 			<data>
-			+E0EZsPwLFOQjY4zTa01xW6kAiBsRPbxIAJjbIOGcLg=
+			fMP03Z3C4Uwl2d8IH4TOa+/gJGjDGM1QPH6ukAoDg64=
 			</data>
 		</dict>
 		<key>PlugIns/AureluxTests.xctest/AureluxTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			55jbc3xYf+W7Yrqujk2W/Eo65bw=
+			Nqg/+S4Oe8baDtKIhXyfsCT0hbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			N0TlqVyaJmXGwbH3p+l3WTJGIRj0ZWar/DE3T2t4U0g=
+			/CZY5GeLKpEZUt79qUtd9NDWWvAgzZ7cAYJEQVLtbAw=
 			</data>
 		</dict>
 		<key>PlugIns/AureluxTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XlHcD0Mblm9s5ArfbwQaTTP/Wpk=
+			bxBIkTDKH5C0dZd0p73lMV0IbP4=
 			</data>
 			<key>hash2</key>
 			<data>
-			g9RtcK8pnsq2C5IxAUF69rj8sYSEJem9IIet/3kYaDo=
+			WuDVrBi9b6x6xyJfJwQ1nOQGrXaKe+/1Ce0FIT3vYXY=
 			</data>
 		</dict>
 		<key>PlugIns/AureluxTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Len9KnGPBxye3uvJoLv6jtPQCTQ=
+			IgIWMuKmIzHBn4YDrywpcvu7tbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			3033+PclqbHWhq6SDOr66UKpYLcBEiXQvWaoIDDalVc=
+			4eq7pVDhe7SplbzASTr3Jznb31U9fNJzq+eLS6IdJng=
 			</data>
 		</dict>
 		<key>Roboto.ttf</key>

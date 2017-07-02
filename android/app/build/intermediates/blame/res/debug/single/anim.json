@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
-    },
-    {
         "merged": "/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/julienkessels/Desktop/Aurelux/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
